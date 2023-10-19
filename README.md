@@ -1,16 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
-
-<img align="right" width="290" height="290" src="https://www.jaegertracing.io/img/jaeger-vector.svg">
-
-[![Slack chat][slack-img]](#get-in-touch)
-[![Project+Community stats][community-badge]][community-stats]
-[![Unit Tests][ci-img]][ci]
-[![Coverage Status][cov-img]][cov]
-[![FOSSA Status][fossa-img]](https://app.fossa.io/projects/git%2Bgithub.com%2Fjaegertracing%2Fjaeger?ref=badge_shield)
-[![Artifact Hub][artifacthub-img]](https://artifacthub.io/packages/helm/jaegertracing/jaeger)
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1273/badge)](https://bestpractices.coreinfrastructure.org/projects/1273)
-
-<img src="https://github.com/cncf/artwork/blob/master/other/cncf-member/graduated/color/cncf-graduated-color.svg" width="250">
 
 # Jaeger - a Distributed Tracing System
 
